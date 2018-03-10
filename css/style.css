@@ -1,0 +1,49 @@
+body {
+  font-family: "Trebuchet MS";
+  background-image: url("../img/phare.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 14px;
+  background-position: center;
+}
+
+img {
+  width: 110px;
+  float: left;
+  border-radius: 100%;
+  margin-right: 20px;
+}
+section {
+  border: 1px solid black;
+  margin: 10px;
+  padding: 0.2rem 1rem;
+}
+header {
+  height: 150px;
+  line-height: 20px;
+}
+
+div {
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid black;
+  color: rgb(19, 33, 61);
+  right: radius 6%;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 6%;
+}
+footer {
+  text-align: left;
+  margin-top: 20px;
+  font-style: italic;
+}
+h3 {
+  width: 100%;
+  font-style: italic;
+
+  h4 {
+    width: 80%;
+    font-style: italic;
+  }
+}
